@@ -33,8 +33,6 @@ function iLoveTheBeatles (number){
  i++
  number++
     
-
-
  return newArry
 }
 
